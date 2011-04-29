@@ -1,0 +1,8 @@
+name: CoalConverter
+version: 1.0.1
+main: yoft.CoalConverter.CoalConverter
+commands:
+  coal:
+    description: Toggles the item in the players hand between Coal and Charcoal.
+    aliases: coal
+    usage: /coal
